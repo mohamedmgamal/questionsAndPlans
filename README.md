@@ -1,4 +1,4 @@
-# Quetions And Plans
+# Questions And Plans
 
 # Getting Started
 
@@ -11,9 +11,10 @@ If your project is already in an existing python3 virtualenv first install djang
 And then run the `django-admin.py` command to start the new project:
 
     $ django-admin.py startproject \
-      --template=https://github.com/mohamedmgamal/quetionsAndPlans/ \
+      --template=https://github.com/mohamedmgamal/questionsAndPlans/ \
       --extension=py,md \
-      quetionsAndPlans
+      questionsAndPlans
+
 
       
 ### No virtualenv
@@ -30,14 +31,14 @@ If you don't have django installed for python 3 then run:
 And then:
 
     $ python3 -m django startproject \
-       --template=https://github.com/mohamedmgamal/quetionsAndPlans/ \
+       --template=https://github.com/mohamedmgamal/questionsAndPlans/ \
       --extension=py,md \
       quetionsAndPlans
       
 # clone the repository from Github and switch to the new directory:
 
-    $ git clone https://github.com/mohamedmgamal/quetionsAndPlans
-    $ cd quetionsAndPlans
+    $ git clone https://github.com/mohamedmgamal/questionsAndPlans
+    $ cd questionsAndPlans
     
 Activate the virtualenv for your project.
 
