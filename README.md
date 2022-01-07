@@ -40,6 +40,11 @@ And then:
     $ cd VacationCycleLogicBackEnd
     
 Activate the virtualenv for your project.
+
+Install project dependencies:
+
+    $ pip install -r requirements/local.txt
+    
     
 Then simply apply the migrations:
 
@@ -57,4 +62,4 @@ You can now run the development server:
     
 You can check api endpoind documentation on postman from :
 
-https://documenter.getpostman.com/view/14601930/UVRHiioY
+https://documenter.getpostman.com/view/14601930/UVXerHbD
